@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rémy
 - 👀 I’m interested in anything that can be a challenge, learning new things and the harder the better
-- 🌱 I’m currently learning more about Data, the processing from Kafka to storage through spark
+- 🌱 I’m currently learning more about Data, from processing  to storage
 - 📫 How to reach me ? Send a private on => https://www.linkedin.com/in/r%C3%A9my-jably-321b5215a
 
 <!---
